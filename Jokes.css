@@ -1,0 +1,52 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif; 
+    background: linear-gradient(to bottom, #98FB98, #89d1e9); 
+    height: 100vh; 
+}
+
+#jokeContainer {
+    border:2px solid #000;
+    border-radius: 5pt;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(255, 191, 0, 0.8); 
+    margin-top: 200px;
+}
+header h1{
+    font-family: 'Comic Sans MS', cursive, sans-serif; 
+    text-align: left;
+}
+
+#jokeText {
+    font-size: 24px;
+    color: #000;
+    margin: 10px 0;
+}
+
+#jokeAuthor {
+    font-size: 18px;
+    color: #555;
+    text-align: right;
+}
+
+.hah {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#giveJoke {
+    border :2px solid #000;
+    background-color: #90EE90; 
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#giveJoke:hover {
+    background-color: #76c376; 
+}
+
+
